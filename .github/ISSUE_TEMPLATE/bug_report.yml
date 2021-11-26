@@ -1,6 +1,6 @@
-name: Bug report 🐞
-description: Report a bug found in Eclipse Che
-labels: [kind/bug]
+name: Asset on boarding request
+description: to add a new asset
+labels: [kind/request]
 
 body:
   - type: markdown
